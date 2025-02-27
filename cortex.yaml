@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: more fun repo
+  x-cortex-git:
+    github:
+      alias: cortex
+      basepath: ""
+      repository: martindstone-org/morefunrepo
+  x-cortex-tag: more-fun-repo
+  x-cortex-type: service
+  x-cortex-owners:
+  - type: EMAIL
+    email: martin@cortex-se.awsapps.com
+    description: ""
